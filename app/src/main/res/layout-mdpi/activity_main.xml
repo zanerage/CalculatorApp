@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
               android:background="@color/crna"
-    tools:context=".MainActivity">
+              tools:context=".MainActivity">
 
     <EditText
             android:id="@+id/etShowNumber"
@@ -24,13 +24,13 @@
 
     <TableLayout
 
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
         <TableRow
-            android:layout_marginBottom="1pt"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                android:layout_marginBottom="1pt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
             <Button
                     android:id="@+id/button10"
@@ -78,9 +78,9 @@
         </TableRow>
 
         <TableRow
-            android:layout_marginBottom="1pt"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                android:layout_marginBottom="1pt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
             <Button
                     android:layout_marginRight="1pt"
@@ -128,9 +128,9 @@
         </TableRow>
 
         <TableRow
-            android:layout_marginBottom="1pt"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                android:layout_marginBottom="1pt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
             <Button
                     android:layout_marginRight="1pt"
@@ -178,9 +178,9 @@
         </TableRow>
 
         <TableRow
-            android:layout_marginBottom="1pt"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                android:layout_marginBottom="1pt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
             <Button
                     android:layout_marginRight="1pt"
@@ -231,9 +231,9 @@
 
     <LinearLayout
 
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
 
         <Button
                 android:layout_marginRight="1pt"
