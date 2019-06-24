@@ -238,7 +238,7 @@
         <Button
                 android:layout_marginRight="1pt"
                 android:id="@+id/bu0"
-                android:layout_width="391dp"
+                android:layout_width="152dp"
                 android:layout_height="50pt"
                 android:layout_weight="1"
                 android:background="@drawable/greeny"
